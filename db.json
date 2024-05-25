@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "9cd8",
+      "name": "Camiseta Basica Branca",
+      "description": "Camiseta Basica Branca Tamanho M",
+      "image": "https://lojausereserva.vtexassets.com/arquivos/ids/8563033-2400-auto?v=638513208227270000&width=2400&height=auto&aspect=true",
+      "price": "49",
+      "size": "M",
+      "type": "Camiseta"
+    },
+    {
+      "id": "3f09",
+      "name": "Blusa de Frio",
+      "description": "BLusa de Frio",
+      "image": "https://m.media-amazon.com/images/I/51nvr5bY8VL._AC_SY606_.jpg",
+      "price": "90",
+      "size": "M",
+      "type": "Blusa de frio"
+    },
+    {
+      "id": "c4cd",
+      "name": "Calça jeans",
+      "description": "Calça jeans",
+      "image": "https://m.media-amazon.com/images/I/61+1vJ3LpHL._AC_SX569_.jpg",
+      "price": "60",
+      "size": "M",
+      "type": "Calças"
+    },
+    {
+      "id": "7677",
+      "name": "Bermuda Jeans",
+      "description": "Bermuda Jeans",
+      "image": "https://m.media-amazon.com/images/I/612vGyUDxCL._AC_SX569_.jpg",
+      "price": "65",
+      "size": "M",
+      "type": "Shorts"
+    }
+  ]
+}
